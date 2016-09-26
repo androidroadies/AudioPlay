@@ -11,12 +11,17 @@ import java.util.List;
 import java.util.Random;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
+import android.database.Cursor;
 import android.media.MediaPlayer;
 import android.media.MediaPlayer.OnCompletionListener;
+import android.net.Uri;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
+import android.provider.MediaStore;
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageButton;
 import android.widget.SeekBar;
@@ -49,6 +54,21 @@ public class AndroidBuildingMusicPlayerActivity extends Activity implements OnCo
 	private boolean isShuffle = false;
 	private boolean isRepeat = false;
 	private ArrayList<HashMap<String, String>> songsList = new ArrayList<HashMap<String, String>>();
+
+	Context context;
+	public static void printNamesToLogCat(Context context) {
+		Uri uri = MediaStore.Video.Media.EXTERNAL_CONTENT_URI;
+		String[] projection = { MediaStore.Video.VideoColumns.DATA };
+		Cursor c = context.getContentResolver().query(uri, projection, null, null, null);
+		int vidsCount = 0;
+		if (c != null) {
+			vidsCount = c.getCount();
+			while (c.moveToNext()) {
+				Log.d("VIDEO", c.getString(0));
+			}
+			c.close();
+		}
+	}
 
 	public static String getExternalSdCardPath() {
 		String path = null;
@@ -88,6 +108,8 @@ public class AndroidBuildingMusicPlayerActivity extends Activity implements OnCo
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.player);
 
+		context = AndroidBuildingMusicPlayerActivity.this;
+		printNamesToLogCat(context);
 		getExternalSdCardPath();
 		// All player buttons
 		btnPlay = (ImageButton) findViewById(R.id.btnPlay);
