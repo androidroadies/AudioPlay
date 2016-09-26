@@ -4,40 +4,16 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_previous.png"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_0_light.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_0_light.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_dark.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_play_dark.png"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_backward_pressed.png",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_backward_pressed.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_play.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_play.png"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\seek_handler.png",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\seek_handler.png"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_off_light.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_off_light.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_light.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_light.png"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_pause_pressed.png",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_pause_pressed.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_light.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_light.png"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_playlist_pressed.png",
@@ -48,28 +24,8 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_previous_pressed.png"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_mono_dark.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_mono_dark.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_setting_light.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_setting_light.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_off_mono_dark.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_off_mono_dark.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_dark.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_dark.png"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_seekbar_bg.png",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_seekbar_bg.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_0_mono_dark.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_0_mono_dark.png"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_playlist.png",
@@ -80,10 +36,6 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_shuffle_pressed.png"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause_dark.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_pause_dark.png"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_shuffle.png",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_shuffle.png"
     },
@@ -92,40 +44,16 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_backward.png"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_disabled_mono_dark.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_disabled_mono_dark.png"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_repeat_pressed.png",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_repeat_pressed.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_2_light.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_2_light.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_1_mono_dark.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_1_mono_dark.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_play.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_play.png"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_next_pressed.png",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_next_pressed.png"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_pause_light.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_pause_light.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_media_pause.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_pause.png"
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_play.png",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_play.png"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_seekbar_progress_blue.png",
@@ -148,10 +76,6 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_forward_pressed.png"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_disabled_light.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_disabled_light.png"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_next.png",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_next.png"
     },
@@ -164,23 +88,11 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_repeat.png"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_play_light.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_play_light.png"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_forward.png",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_forward.png"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_cast_on_1_light.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_1_light.png"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\img_btn_play_pressed.png",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\img_btn_play_pressed.png"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_setting_dark.png",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_setting_dark.png"
     }
 ]

@@ -8,16 +8,16 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\layout\\playlist_item.xml"
     },
     {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_games.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\layout\\fragment_games.xml"
+    },
+    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\layout\\cast_help_text.xml"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
@@ -32,10 +32,6 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\layout\\cast_mini_controller.xml"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
     },
@@ -48,12 +44,12 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\layout\\player.xml"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playlist.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\layout\\playlist.xml"
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\playlist.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\layout\\playlist.xml"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
@@ -72,20 +68,16 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rounded_corner.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\layout\\rounded_corner.xml"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
@@ -94,10 +86,6 @@
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\layout\\cast_intro_overlay.xml"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -112,10 +100,6 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
@@ -126,10 +110,6 @@
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
-    },
-    {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\error_layout.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.3.0\\res\\layout\\error_layout.xml"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
@@ -152,20 +132,16 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_wearable.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.3.0\\res\\layout\\alert_dialog_wearable.xml"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\layout\\cast_expanded_controller_activity.xml"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_top_rated.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\layout\\fragment_top_rated.xml"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
@@ -180,16 +156,20 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_movies.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\layout\\fragment_movies.xml"
     },
     {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
@@ -200,19 +180,15 @@
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
         "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bg_player_footer.xml",
         "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\layout\\bg_player_footer.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
     }
 ]
