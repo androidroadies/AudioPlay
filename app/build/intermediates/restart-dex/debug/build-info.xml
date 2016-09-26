@@ -4,29 +4,29 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="2019635951954569"
+    timestamp="2020126938718296"
     token="5509960959913052979"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="7090" />
+        duration="664" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1253" />
+        duration="53" />
     <task
         name="verifier"
-        duration="504" />
+        duration="16" />
 
     <artifact
         location="D:\AVF app\AndroidBuildingMusicPlayer1\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="2019635951954569"
+        timestamp="2020126938718296"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="D:\AVF app\AndroidBuildingMusicPlayer1\app\build\outputs\apk\app-debug.apk"
