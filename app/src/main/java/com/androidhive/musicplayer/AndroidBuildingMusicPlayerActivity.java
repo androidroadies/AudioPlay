@@ -32,7 +32,7 @@ import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class AndroidBuildingMusicPlayerActivity extends AppCompatActivity implements OnCompletionListener, SeekBar.OnSeekBarChangeListener {
+public class AndroidBuildingMusicPlayerActivity extends Activity implements OnCompletionListener, SeekBar.OnSeekBarChangeListener {
 
 	private ImageButton btnPlay;
 	private ImageButton btnForward;
