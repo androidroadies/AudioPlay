@@ -21,14 +21,18 @@ import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
 import android.provider.MediaStore;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageButton;
 import android.widget.SeekBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class AndroidBuildingMusicPlayerActivity extends Activity implements OnCompletionListener, SeekBar.OnSeekBarChangeListener {
+public class AndroidBuildingMusicPlayerActivity extends AppCompatActivity implements OnCompletionListener, SeekBar.OnSeekBarChangeListener {
 
 	private ImageButton btnPlay;
 	private ImageButton btnForward;
@@ -456,7 +460,28 @@ public class AndroidBuildingMusicPlayerActivity extends Activity implements OnCo
 			}
 		}
 	}
-	
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		MenuInflater inflater = getMenuInflater();
+		inflater.inflate(R.menu.player_menu, menu);
+		return true;
+	}
+	@Override
+	public boolean onOptionsItemSelected(MenuItem item) {
+		// Handle item selection
+		switch (item.getItemId()) {
+			case R.id.new_game:
+//				newGame();
+				System.out.println("1");
+				return true;
+			case R.id.help:
+//				showHelp();
+				System.out.println("2");
+				return true;
+			default:
+				return super.onOptionsItemSelected(item);
+		}
+	}
 	@Override
 	 public void onDestroy(){
 	 super.onDestroy();
