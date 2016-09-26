@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AVF app\AndroidBuildingMusicPlayer1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ed8123e8e8eae9c00c45bc47a08073dde4ac6a4d">
+        <dex dex="D:\AVF app\AndroidBuildingMusicPlayer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_66a3080342991789bdfe2ffa025710120dbfd7e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AVF app\AndroidBuildingMusicPlayer1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db5aa88e2381c123ba40f46e1b566860f297300d">
+        <dex dex="D:\AVF app\AndroidBuildingMusicPlayer1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ea92f67ea32bf8ac722e3deb9aa8cea92f331ba8\classes.dex" />
+    </item>
+
+</items>

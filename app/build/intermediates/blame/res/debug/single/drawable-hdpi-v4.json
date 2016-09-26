@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\list_selector.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\list_selector.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_backward.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_backward.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient_bg.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seekbar_progress_bg.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\seekbar_progress_bg.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_previous.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_previous.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_next.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_next.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_repeat.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_repeat.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_playlist.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_playlist.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_pause.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_pause.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_play.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_play.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_repeat_focused.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_repeat_focused.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_shuffle.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_shuffle.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\seekbar_progress.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\seekbar_progress.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\gradient_bg_hover.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_shuffle_focused.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_shuffle_focused.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\btn_forward.xml",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\btn_forward.xml"
+    },
+    {
+        "merged": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\adele.jpg",
+        "source": "D:\\AVF app\\AndroidBuildingMusicPlayer1\\app\\src\\main\\res\\drawable-hdpi\\adele.jpg"
+    }
+]
